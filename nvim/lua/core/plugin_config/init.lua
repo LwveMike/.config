@@ -5,4 +5,5 @@ require("core.plugin_config.nvim-treesitter")
 require("core.plugin_config.telescope")
 require("core.plugin_config.typescript-lsp")
 -- require("core.plugin_config.compe")
+require("core.plugin_config.ale")
 

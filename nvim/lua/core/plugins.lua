@@ -30,6 +30,7 @@ return require('packer').startup(function(use)
   use 'windwp/nvim-ts-autotag'
   use 'p00f/nvim-ts-rainbow'
   use 'hrsh7th/nvim-compe'
+  use 'dense-analysis/ale'
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
